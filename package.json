@@ -1,0 +1,12 @@
+{
+  "name": "semmena",
+  "version": "1.0.0",
+  "private": true,
+  "description": "SEMMENA - jeu de colonisation en ligne pour 3 à 6 joueurs",
+  "dependencies": {
+    "@capacitor/android": "^6.1.2",
+    "@capacitor/cli": "^6.1.2",
+    "@capacitor/core": "^6.1.2",
+    "peerjs": "^1.5.4"
+  }
+}
